@@ -1,6 +1,6 @@
 # This script pulls from a job website and stores positions into a database. If there is a new posting it notifies the user.
 # Hasan Hasan
-# CNA330 11/04/2020
+# CNA330 11/10/2020
 
 
 import mysql.connector
